@@ -40,7 +40,7 @@ Sigmoid activation for binary classification
 
 **Test Accuracy: ~95.5%**
 
-**Loss: ~0.27 after 5 epochs**
+**Loss: ~0.2758 after 18 epochs**
 
 Evaluation Metric: Categorical Crossentropy Loss and Accuracy
 
